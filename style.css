@@ -1,0 +1,9 @@
+caption {
+  text-align: center;
+  caption-side: top;
+  color:rgb(255, 0, 0);
+  font-size: larger;
+}
+#pagination{
+    margin-left: 600px;
+}
